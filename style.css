@@ -1,0 +1,41 @@
+h1 {
+color: orange;
+text-align: center;
+}
+
+
+#footer {
+  display: flex;
+  justify-content: space-between;
+  background-color: green;
+  position: fixed;
+  bottom: 0px;
+  left: 0px;
+  right: 0px;
+  height: 50px;
+  margin-bottom: 0px;
+  font-size: 23px;
+  font-weight: bold;
+}
+
+div {
+  margin: 20px 20px;
+
+}
+
+body {
+  margin-bottom: 50px;
+}
+
+ol{
+  font-size: 23px;
+  font-weight: bold;
+}
+
+img{
+	float: right; 
+	margin-right:10px; 
+	margin-bottom: 5px;
+	border: solid black 1px;
+	padding: 2px;
+}
